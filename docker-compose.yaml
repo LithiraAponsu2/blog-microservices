@@ -1,0 +1,11 @@
+version: '3'
+services:
+  blog-post-service:
+    build: ./blog-post-service
+    ports:
+      - "5000:5000"
+
+  user-service:
+    build: ./user-service
+    ports:
+      - "5001:5001"
