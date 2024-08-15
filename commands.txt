@@ -1,0 +1,4 @@
+1. Docker compose
+docker-compose up --build
+
+89fa7a3767ff42e4bc8c2f1145069755
