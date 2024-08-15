@@ -1,5 +1,5 @@
 1. Docker compose
 docker-compose up --build
 
-89fa7a3767ff42e4bc8c2f1145069755
+0ba072a59a9243ab970e8511c2c87a5e
 
